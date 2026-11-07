@@ -23,5 +23,5 @@ Before running this framework, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Japh2/japh-Phish.git
+   git clone https://github.com/Japh2/japh_phish.git
    cd japh_Phish
