@@ -1,7 +1,7 @@
 from flask import Flask, request, redirect, render_template_string, session
 import sqlite3
 from datetime import datetime
-from user_agents import parse
+#from user_agents import parse
 import os
 
 app = Flask(__name__)
