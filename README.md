@@ -24,5 +24,13 @@ Before running this framework, ensure you have the following installed:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Japh2/japh_phish.git
-   pip3 install Flask user_agent --break-system-packages
+   cd japh_phish
+   sudo apt update
+   sudo apt install python3-venv -y
+   python3 -m venv myenv
+   source myenv/bin/activate
+   pip3 install Flask
+   sed -i '/from user_age python3 evil_server.py
    python3 evil_server.py
+
+   
