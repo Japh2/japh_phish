@@ -30,7 +30,6 @@ Before running this framework, ensure you have the following installed:
    python3 -m venv myenv
    source myenv/bin/activate
    pip3 install Flask
-   sed -i '/from user_age python3 evil_server.py
    python3 evil_server.py
 
    
